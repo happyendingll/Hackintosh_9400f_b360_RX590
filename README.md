@@ -1,4 +1,4 @@
-# [Hackintosh_9400f_b360_RX590(opencore)](https://github.com/happyendingll/happyendingll-Hackintosh_9400f_b360_RX590.git)
+# [Hackintosh_9400f_b360_RX590](https://github.com/happyendingll/happyendingll-Hackintosh_9400f_b360_RX590.git)
 
 ## 配置：
 
